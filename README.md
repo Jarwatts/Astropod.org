@@ -1,4 +1,4 @@
 Astropod.org
 ============
 
-Remote controlled telescope
+Astroscope
